@@ -1,0 +1,3 @@
+Adafruit CircuitPython 7.1.1-dirty on 2022-03-04; lulu with rp2040
+Board ID:boardsouce_lulu
+boot.py output:
