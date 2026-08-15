@@ -62,9 +62,9 @@
       "KC_LCTL",
       "KC_SPC",
       "KC_ENT",
-      "KC_BSPC",
+      "KC_RGUI",
       "MO(1)",
-      "KC_RGUI"
+      "KC_BSPC"
     ],
     [
       "KC_F1",
@@ -83,8 +83,8 @@
       "KC_NUBS",
       "KC_UP",
       "KC_NUHS",
-      "KC_PGUP",
       "KC_HOME",
+      "KC_PGUP",
       "RGB_MOD",
       "RGB_HUI",
       "RGB_SAI",
@@ -95,8 +95,8 @@
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
-      "KC_PGDN",
       "KC_END",
+      "KC_PGDN",
       "KC_TRNS",
       "RGB_HUD",
       "RGB_SAD",
